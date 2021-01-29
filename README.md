@@ -2,7 +2,7 @@
 
 Groan at some dad jokes and rate them as well. Which joke will be your favorite?
 
-This API is built with [json-server](https://github.com/typicode/json-server). It provides the backend service for the Dad Joke Dadabase app found here: https://github.com/thawkin3/dad-joke-dadabase
+This API is built with [JSON Server](https://github.com/typicode/json-server). It provides the backend service for the Dad Joke Dadabase app found here: https://github.com/thawkin3/dad-joke-dadabase
 
 ## Running the app locally
 
