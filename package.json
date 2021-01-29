@@ -1,0 +1,25 @@
+{
+  "name": "dad-joke-dadabase-rest-api",
+  "version": "1.0.0",
+  "description": "Dad joke \"dadabase\" REST API built with JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,md}\"",
+    "format:watch": "onchange \"**/*.{js,jsx,md}\" -- prettier --write {{changed}}",
+    "start": "node index.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server",
+    "rest api"
+  ],
+  "author": "Tyler Hawkins",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0",
+    "prettier": "^2.2.1"
+  }
+}
